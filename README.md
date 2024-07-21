@@ -16,4 +16,6 @@ npm run dev
 
 ## in-Project
 
-[ x ] => Add Sign-in , Sign-Up Component for Authentication
+[ 0.1 ] => Add Sign-in , Sign-Up Component for Authentication
+
+[ 0.2 ] => Added Authentication for Diffrent Routes
