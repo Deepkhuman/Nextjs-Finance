@@ -14,8 +14,12 @@ npm run dev
 
 [ x ] => Addded clerk for Authentication of Routes And Built in Sign-in Sign-up Component (https://clerk.com/)
 
+[ x ] => Used @hono/clerk-auth and @clerk/backend to verify user is Verified or Not
+
 ## in-Project
 
 [ 0.1 ] => Add Sign-in , Sign-Up Component for Authentication
 
 [ 0.2 ] => Added Authentication for Diffrent Routes
+
+[ 0.2 .1 ] => Added Layout And Header from Component Directory
